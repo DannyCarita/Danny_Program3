@@ -1,0 +1,15 @@
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.AssemblyInfoInputs.cache
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.AssemblyInfo.cs
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.csproj.CoreCompileInputs.cache
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.sourcelink.json
+D:\DannyCarita\clase2\bin\Debug\net8.0\clase2.exe
+D:\DannyCarita\clase2\bin\Debug\net8.0\clase2.deps.json
+D:\DannyCarita\clase2\bin\Debug\net8.0\clase2.runtimeconfig.json
+D:\DannyCarita\clase2\bin\Debug\net8.0\clase2.dll
+D:\DannyCarita\clase2\bin\Debug\net8.0\clase2.pdb
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.dll
+D:\DannyCarita\clase2\obj\Debug\net8.0\refint\clase2.dll
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.pdb
+D:\DannyCarita\clase2\obj\Debug\net8.0\clase2.genruntimeconfig.cache
+D:\DannyCarita\clase2\obj\Debug\net8.0\ref\clase2.dll
