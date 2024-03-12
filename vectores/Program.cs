@@ -1,20 +1,45 @@
-﻿using Systen;
+﻿using System;
 
-static class program{
+static class Program{
 
 static void Main(string[] args)
 {
-    int[] vector = {2, 4, 6, 8, 10, 9, 15};
-    sumVector(vector);
-    multiplotres(vector);
-
-static void sumVector(int[] vector)
+        LlenarVector(10);
+}
+static void LlenarVector(int cantidad)
 {
-    int sum = 0;
- 
+    int[] vector = new int[cantidad];
+    int numero = 1;
+
+    for (int i = 0; i < cantidad; i++)
+    {
+        while (!esPar(numero))
+        {
+            numero++;
+        }
+        vector[i] = numero;
+        numero++;
+    }
+    imprimirVector(vector);
 }
-static int[] ingresar[] vector, int 
+static bool esPar(int numero){
+    if ((numero % 2)==1){
+        return true;
+    }
+    else{
+        return false;
+    }
+
+
 }
 
+static void imprimirVector(int[] vector)
+{
+    foreach(int elemento in vector)
+    {
+        Console.Write(elemento + " ");
+    }
+    Console.WriteLine();
+}
 
 }
