@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DannyCarita\\vectores\\vectores.csproj",
+      "projectUniqueName": "D:\\REPOSITORIO DANNY\\Danny_Program3\\vectores\\vectores.csproj",
       "projectName": "vectores",
-      "projectPath": "D:\\DannyCarita\\vectores\\vectores.csproj",
+      "projectPath": "D:\\REPOSITORIO DANNY\\Danny_Program3\\vectores\\vectores.csproj",
       "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-      "outputPath": "D:\\DannyCarita\\vectores\\obj\\",
+      "outputPath": "D:\\REPOSITORIO DANNY\\Danny_Program3\\vectores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config"

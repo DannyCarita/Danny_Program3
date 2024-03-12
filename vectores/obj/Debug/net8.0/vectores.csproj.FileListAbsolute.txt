@@ -1,0 +1,15 @@
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.AssemblyInfoInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.AssemblyInfo.cs
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.csproj.CoreCompileInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.sourcelink.json
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\bin\Debug\net8.0\vectores.exe
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\bin\Debug\net8.0\vectores.deps.json
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\bin\Debug\net8.0\vectores.runtimeconfig.json
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\bin\Debug\net8.0\vectores.dll
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\bin\Debug\net8.0\vectores.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.dll
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\refint\vectores.dll
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\vectores.genruntimeconfig.cache
+D:\REPOSITORIO DANNY\Danny_Program3\vectores\obj\Debug\net8.0\ref\vectores.dll
