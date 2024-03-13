@@ -13,7 +13,7 @@ static void LlenarVector(int cantidad)
 
     for (int i = 0; i < cantidad; i++)
     {
-        while (!esPar(numero))
+        while (!esPrimo(numero))
         {
             numero++;
         }
@@ -21,6 +21,7 @@ static void LlenarVector(int cantidad)
         numero++;
     }
     imprimirVector(vector);
+/*FUNCION PARA OBTENER IMPARES    
 }
 static bool esPar(int numero){
     if ((numero % 2)==1){
@@ -32,6 +33,25 @@ static bool esPar(int numero){
 
 
 }
+*/
+static bool esPrimo(int numero)
+{
+    if(numero <= 1)
+    {
+        return false;
+    }
+    for(int i = 2; i + i <= numero; i++)
+    {
+        if(numero % 1 == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+
+
 
 static void imprimirVector(int[] vector)
 {
@@ -42,4 +62,5 @@ static void imprimirVector(int[] vector)
     Console.WriteLine();
 }
 
+}
 }

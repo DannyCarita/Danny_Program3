@@ -1,0 +1,15 @@
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.AssemblyInfoInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.AssemblyInfo.cs
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.csproj.CoreCompileInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.sourcelink.json
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\bin\Debug\net8.0\LETRAS.exe
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\bin\Debug\net8.0\LETRAS.deps.json
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\bin\Debug\net8.0\LETRAS.runtimeconfig.json
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\bin\Debug\net8.0\LETRAS.dll
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\bin\Debug\net8.0\LETRAS.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.dll
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\refint\LETRAS.dll
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\LETRAS.genruntimeconfig.cache
+D:\REPOSITORIO DANNY\Danny_Program3\LETRAS\obj\Debug\net8.0\ref\LETRAS.dll
