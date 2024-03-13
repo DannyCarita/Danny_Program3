@@ -17,9 +17,10 @@ static void LlenarVectorString(string palabra)
     {
         letras[i] = palabra[i];
     }
-    imprimirVector(letras);
+    imprimirVectorGeneral(letras);
 }
-
+/*
+IMPRIMIR CHAR 
 static void imprimirVector(char[] letras)
     {
         foreach (char letra in letras)
@@ -27,5 +28,15 @@ static void imprimirVector(char[] letras)
             Console.Write(letra + " " );
         }
 
+
+    }
+*/
+static void imprimirVectorGeneral<T>(T[] vector)
+{
+    foreach (T elemento in vector)
+    {
+        Console.Write(elemento + " ");
+    }
+    Console.WriteLine();
 }
 }
