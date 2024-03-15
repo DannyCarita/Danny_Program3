@@ -1,0 +1,15 @@
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.AssemblyInfoInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.AssemblyInfo.cs
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.csproj.CoreCompileInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.sourcelink.json
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\bin\Debug\net8.0\SIMULACRO.exe
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\bin\Debug\net8.0\SIMULACRO.deps.json
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\bin\Debug\net8.0\SIMULACRO.runtimeconfig.json
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\bin\Debug\net8.0\SIMULACRO.dll
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\bin\Debug\net8.0\SIMULACRO.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.dll
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\refint\SIMULACRO.dll
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\SIMULACRO.genruntimeconfig.cache
+D:\REPOSITORIO DANNY\Danny_Program3\SIMULACRO\obj\Debug\net8.0\ref\SIMULACRO.dll
