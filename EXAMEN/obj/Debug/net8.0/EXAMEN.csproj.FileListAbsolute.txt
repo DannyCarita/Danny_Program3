@@ -1,0 +1,15 @@
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\bin\Debug\net8.0\EXAMEN.exe
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\bin\Debug\net8.0\EXAMEN.deps.json
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\bin\Debug\net8.0\EXAMEN.runtimeconfig.json
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\bin\Debug\net8.0\EXAMEN.dll
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\bin\Debug\net8.0\EXAMEN.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.AssemblyInfoInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.AssemblyInfo.cs
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.csproj.CoreCompileInputs.cache
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.sourcelink.json
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.dll
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\refint\EXAMEN.dll
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.pdb
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\EXAMEN.genruntimeconfig.cache
+D:\REPOSITORIO DANNY\Danny_Program3\EXAMEN\obj\Debug\net8.0\ref\EXAMEN.dll
